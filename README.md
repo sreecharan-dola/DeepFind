@@ -19,7 +19,8 @@ DeepFind returns it — the meaning matches.
 
 ## Demo
 
-![Search](screenshots/search.png)
+![Search](screenshots/search.PNG)
+
 ![Results](screenshots/results.png)
 
 ---
