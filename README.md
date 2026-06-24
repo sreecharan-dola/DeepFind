@@ -104,6 +104,3 @@ Built this project to understand backpropagation from first principles, not just
 - 💼 LinkedIn: [Dola Sreecharan](https://linkedin.com/in/sreecharan-dola)
 - 📧 sreecharan.dola@gmail.com
 
----
-
-*If this helped you understand AutoDiff — give it a ⭐*
