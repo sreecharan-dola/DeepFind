@@ -93,6 +93,11 @@ DeepFind/
 **Deduplication** — files stored as a set. Duplicate uploads collapsed automatically.
 
 ---
+## 🚀 Live Demo
+
+🔗 **Live App:** https://deepfind.streamlit.app/
+
+---
 
 ## Author
 
